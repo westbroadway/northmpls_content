@@ -8,8 +8,10 @@
 -
   name: lundstrum
   title: Lundstrum
-  url: http://www.google.com/calendar/feeds/lundstrum%40gmail.com.calendar.google.com/public/basic
+  url: http://www.google.com/calendar/feeds/lundstrum%40gmail.com/public/basic
+  google_cal_email: lundstrum%40gmail.com
   type: google_feed
+  source: http://lundstrumcenter.org/PerformanceCalendar/tabid/67/Default.aspx
 -
   name: wbc_farmers_market
   title: WBC Farmers Market
@@ -86,23 +88,68 @@
   url: http://www.google.com/calendar/feeds/26j5sg50qf96eoc9dudtvqslmg%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm2
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/m02u3qnr49jqke39dhnutkcuh4%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm3
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/flchvij89hpk4n9it91ucpgjj4%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm4
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/9khgk3frafmhe25tg27c6f5r4g%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm5
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/rj4q4hfv3fogj073e2ulkl9oac%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm6
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/cd8n89ha27fno1jkvtim5g5ag0%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm7
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/u5p7gtoq7i8mm4k77qva4kkkm0%40group.calendar.google.com/public/basic
   type: google_feed
 -
+  name: camden_comm8
+  title: Camden Community
   url: http://www.google.com/calendar/feeds/phltecf38eds4q1nk257rsc54c%40group.calendar.google.com/public/basic
   type: google_feed
+-
+  title: Northside Transportation Network
+  website: http://northsidetransit.org
+-
+  title: Hearts and Hammers
+  website: http://www.heartsandhammers.org
+-
+  title: Folwell
+  description: We are a network of neighborhoods and initiatives in North Minneapolis.
+  website: http://www.folwell.org
+-
+  title: Old Highland
+  website: http://www.oldhighland.org
+-
+  name: nacarts
+  title: Northside Arts Collective
+  website: http://nacarts.org
+  source: http://nacarts.org/calendar
+  google_cal_email: info%40nacarts.org
+  url: http://www.google.com/calendar/feeds/info%40nacarts.org/public/basic
+-
+  title: UpperWHO
+  website: http://upperwho.org
+-
+  title: Willard Homewood (WHO)
+  website: http://willardhomewood.org
+-
+  title: Northside Economic Opportunity Network
+  name: neon
+  source: http://www.neon-mn.org/calander.html
+
