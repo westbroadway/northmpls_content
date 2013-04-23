@@ -82,8 +82,6 @@ Shingle Creek Regional Pond
 
 This page was last updated on: 04/19/2013 02:50:18  
 
- [1]: /web/20090302003853/http://northminneapolis.com/community/parks.html
- [2]: /web/20090302003853im_/http://northminneapolis.com/images/nature2.jpg
  [3]: /web/20090302003853/http://www.minneapolisparks.org/default.asp?PageID=4&parkid=272
  [4]: /web/20090302003853/http://www.minneapolisparks.org/default.asp?PageID=4&parkid=203
  [5]: /web/20090302003853/http://www.minneapolisparks.org/default.asp?PageID=88&parkid=202
