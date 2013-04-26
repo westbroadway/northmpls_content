@@ -6,6 +6,7 @@
   name: Bethune Park
   address: 1301 10th Ave. N
   url: http://www.minneapolisparks.org/default.asp?PageID=4&parkid=203
+  image: http://www.minneapolisparks.org/graphics/parks/bethune_park.jpg
 -
   name: Bethune Recreation Center
   url: http://www.minneapolisparks.org/default.asp?PageID=88&parkid=202
@@ -119,6 +120,7 @@
 -
   name: Valley View Park
   address: 26th Ave. N and N Theodore Wirth Pkwy.
+  url: http://www.minneapolisparks.org/default.asp?PageID=4&parkid=492
 -
   name: Victory Memorial Parkway
   url: http://www.minneapolisparks.org/grandrounds/dist_VM.htm
@@ -129,6 +131,8 @@
 -
   name: Victory Prairie Dog Park
   address: 4701 Russell Ave. N
+  url: http://www.minneapolisparks.org/default.asp?PageID=4&parkid=501
+  image: http://www.minneapolisparks.org/graphics/parks/dog/501.jpg
 -
   name: Webber Park
   address: 4400 Dupont Ave. N
