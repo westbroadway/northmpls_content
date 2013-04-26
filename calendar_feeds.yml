@@ -52,7 +52,7 @@
   url: http://www.google.com/calendar/feeds/clevelandneighborhood.org_q1cjksji4r5o4v7nku2p0vvlq4%40group.calendar.google.com/public/basic
   type: google_feed
   source: http://clevelandneighborhood.org/calendar/
-  google_cal_email: ariah@clevelandneighborhood.org
+  google_cal_email: clevelandneighborhood.org_q1cjksji4r5o4v7nku2p0vvlq4%40group.calendar.google.com
 -
   name: wbc
   title: WBC
