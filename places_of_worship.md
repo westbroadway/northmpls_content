@@ -4,7 +4,7 @@ Ascension Church Rectory
 1723 Bryant Avenue North
 Minneapolis, MN 55411
 Phone: 612.529.9684
-Fax 612.529.7618
+Fax: 612.529.7618
 
 Assemblies Of God Minneapolis District Council Trinity Tabernacle
 2314 Plymouth Avenue North 
