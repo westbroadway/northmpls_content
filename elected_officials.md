@@ -66,7 +66,7 @@ Fax: (651) 645-3110
 Toll Free: (800) 642-6041 
 http://coleman.senate.gov/
 
-Senator Mark Dayton
+### Senator Mark Dayton
 Metro Area Office
 Federal Building, Suite 298
 Fort Snelling, Minnesota 55111
