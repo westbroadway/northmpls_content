@@ -1,6 +1,6 @@
 # Elected Officials
 
-Governor Tim Pawlenty
+### Governor Tim Pawlenty
 Office of the Governor 
 130 State Capitol 
 75 Rev. Dr. Martin Luther King Jr. Blvd. 
@@ -9,55 +9,55 @@ St. Paul, MN 55155
 (800) 657-3717
 tim.pawlenty@state.mn.us
 
-Mayor R.T. Rybak 
+### Mayor R.T. Rybak 
 Room 331, City Hall 
 350 South Fifth St. 
 Minneapolis, MN 55415
 (612) 673-2100 
 rt@minneapolis.org
 
-Ward 3 Council Member Diane Hofstede 
+### Ward 3 Council Member Diane Hofstede 
 350 South Fifth Street
 City Hall, Room 307
 Minneapolis, MN 55415 
 (612) 673-2203
 Diane.Hofstede@ci.minneapolis.mn.us
 
-Ward 4 Council Member Barbara Johnson 
+### Ward 4 Council Member Barbara Johnson 
 350 South Fifth Street
 City Hall, Room 307
 Minneapolis, MN 55415 
 (612) 673-2204 
 barbara.johnson@ci.minneapolis.mn.us
 
-Ward 5 Council Member Don Samuels 
+### Ward 5 Council Member Don Samuels 
 350 South Fifth Street
 City Hall, Room 307
 Minneapolis, MN 55415 
 (612) 673-2205 
 Don.Samuels@ci.minneapolis.mn.us
 
-Senator Linda Higgins (DFL) District 58 
+### Senator Linda Higgins (DFL) District 58 
 75 Rev. Dr. Martin Luther King Jr. Blvd., Room 328 
 St. Paul, MN 55155-1606 
 (651) 296.9246 
 sen.linda.higgins@senate.mn
 
-Representative Joe Mullery (DFL) 58A 
+### Representative Joe Mullery (DFL) 58A 
 367 State Office Building 
 100 Rev. Dr. Martin Luther King Jr. Blvd. 
 Saint Paul, Minnesota 55155 
 (651) 296-4262
 rep.joe.mullery@house.mn
 
-Representative Keith Ellison (DFL) 58B 
+### Representative Keith Ellison (DFL) 58B 
 229 State Office Building 
 100 Rev. Dr. Martin Luther King Jr. Blvd. 
 Saint Paul, Minnesota 55155 
 (651) 296-8659
 rep.keith.ellison@house.mn
 
-Senator Norm Coleman
+### Senator Norm Coleman
 Minnesota Office in St. Paul: 
 2550 University Ave W, Suite 100N 
 St. Paul, MN 55114 
